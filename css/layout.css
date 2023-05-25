@@ -1,0 +1,14 @@
+
+#imgCatGif{
+    border: 10px solid rgb(111, 182, 230);
+    border-radius: 35%;
+    transition:all 5000ms;
+}
+
+.tiltLeft{
+    transform: rotate(-360deg);
+}
+
+.tiltRight{
+    transform: rotate(360deg);
+}
